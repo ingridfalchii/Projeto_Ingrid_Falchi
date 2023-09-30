@@ -32,4 +32,8 @@ public class C {
     public void MC2() {
         System.out.println("Método MC2 da classe C");
     }
+
+    public void MC3() {
+        System.out.println("Método MC3 da classe C");
+    }
 }
